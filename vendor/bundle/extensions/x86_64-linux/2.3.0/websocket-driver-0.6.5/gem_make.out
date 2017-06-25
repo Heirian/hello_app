@@ -1,0 +1,15 @@
+current directory: /home/heirian/workspace/hello_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/usr/bin/ruby2.3 -r ./siteconf20170625-4703-1iobr6e.rb extconf.rb
+creating Makefile
+
+current directory: /home/heirian/workspace/hello_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/heirian/workspace/hello_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/heirian/workspace/hello_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20170625-4703-5r1pu1
